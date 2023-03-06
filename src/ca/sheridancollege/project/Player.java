@@ -1,8 +1,7 @@
 package ca.sheridancollege.project;
 
 /**
- * A class that models each Player in the game. Players have an identifier, which should be unique.
- *
+*  A class for a human player
  * @author Marwa    5 Mar 2023
  * @author Sumandeep
  * @author Jashman
