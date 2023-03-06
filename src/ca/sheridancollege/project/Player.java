@@ -1,7 +1,6 @@
 package ca.sheridancollege.project;
 
-/**
-*  A class for a human player
+/* A class for a human player
  * @author Marwa    5 Mar 2023
  * @author Sumandeep
  * @author Jashman
